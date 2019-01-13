@@ -3,3 +3,6 @@
 .classpath
 bin/
 target/
+.idea
+eureka-server.log
+*.iml
